@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '3891128c0a5a4e97893b8690ad2531a1',
+  rootNotionPageId: '2c8aed94de5b4d8c9cbbaa23ea49ef83',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Peng\' Blogs',
-  domain: 'https://jinquan.notion.site/Blogs-3891128c0a5a4e97893b8690ad2531a1',
-  author: 'Jinquan',
+  name: 'Peng-Blogs',
+  domain: 'https://jinquan.notion.site/Peng-Blogs-2c8aed94de5b4d8c9cbbaa23ea49ef83',
+  author: 'PengJinquan',
 
   // open graph metadata (optional)
   description: 'Example site description',
